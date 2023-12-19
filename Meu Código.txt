@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .titulo {
+            background-color: blue;
+            height: 400px;    
+        }
+    </style>
+
+    <h1>Nova linha no GITHUB</h1>
+</head>
+<body>
+    <div class="titulo">Curso front-end</div>
+</body>
+</html> 
